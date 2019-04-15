@@ -6,6 +6,7 @@ android {
 
 
     defaultConfig {
+        //noinspection MinSdkTooLow
         minSdkVersion 1
         targetSdkVersion 28
         versionCode 1
