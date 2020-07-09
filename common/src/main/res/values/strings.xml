@@ -1,1 +1,4 @@
-<resources />
+<resources>
+    <string name="search">Search</string>
+    <string name="insert">Insert</string>
+</resources>

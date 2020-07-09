@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:compat="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/abc_ic_search_api_material"
+        android:title="@string/search"
+        compat:actionViewClass="androidx.appcompat.widget.SearchView"
+        compat:showAsAction="collapseActionView|ifRoom"
+        tools:ignore="PrivateResource" />
+
+    <item
+        android:id="@+id/action_insert"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/insert"
+        compat:showAsAction="collapseActionView|ifRoom" />
+</menu>
