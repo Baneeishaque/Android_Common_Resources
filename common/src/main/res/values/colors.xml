@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#bb3c62</color>
+    <color name="colorPrimaryDark">#962f4d</color>
+    <color name="colorAccent">#be3b62</color>
+    <color name="amazon">#212f3c</color>
+    <color name="olxPrimary">#f5f8f7</color>
+    <color name="olxPrimaryDark">#3777ff</color>
+</resources>

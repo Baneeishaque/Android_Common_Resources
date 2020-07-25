@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar.Amazon" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/amazon</item>
+        <item name="colorPrimaryDark">@color/amazon</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar.Olx" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/olxPrimary</item>
+        <item name="colorPrimaryDark">@color/olxPrimaryDark</item>
+    </style>
+
+</resources>
