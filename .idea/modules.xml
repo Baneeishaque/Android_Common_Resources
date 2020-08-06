@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Android_Common_Resources.iml" filepath="$PROJECT_DIR$/.idea/Android_Common_Resources.iml" group="Android_Common_Resources" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/common.iml" group="Android_Common_Resources/common" />
-    </modules>
-  </component>
-</project>
